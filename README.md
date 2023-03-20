@@ -31,9 +31,8 @@ Below is the list of tasks that you need to do.
 
 4. Find answers to the below questions from this dataset.
 (Questions which are marked as OPTIONAL if answered will add more marks to your final scoring metrics)
-
-  a. Which are the top 5 directors who produce most of the movies only?
-  b. Which are the top 5 genres which are liked by people or here liking means listed on the portal of Netflix (you can find a count for each genre and         list the top 5 genres) for movies and TV shows?
-  c. Which 2 directors should Netflix collaborate with more based on the increase in their movies or tv shows over the past years? [OPTIONAL]
-  d. Which are the top 10 actors who are liked by people and have the most content on the Netflix OTT platform.
-  e. Which 2 actors should Netflix collaborate with more based on the increase in their movies or tv shows over the past years? [OPTIONAL]
+  _ Which are the top 5 directors who produce most of the movies only?<br>
+  _ Which are the top 5 genres which are liked by people or here liking means listed on the portal of Netflix (you can find a count for each genre and         list the top 5 genres) for movies and TV shows? <br>
+  _ Which 2 directors should Netflix collaborate with more based on the increase in their movies or tv shows over the past years? **[OPTIONAL]** <br>
+  _ Which are the top 10 actors who are liked by people and have the most content on the Netflix OTT platform. <br>
+  _ Which 2 actors should Netflix collaborate with more based on the increase in their movies or tv shows over the past years? **[OPTIONAL]** <br>
